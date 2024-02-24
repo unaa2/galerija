@@ -1,0 +1,100 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+  
+  }
+  
+  header {
+    font-family: Arial, sans-serif;
+    color: black;
+    text-align: left;
+  }
+  
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .image-card {
+    text-align: left;
+    width: 10% - 20px;
+  }
+
+  .flex-container {
+    margin-left: auto;
+  }
+  
+  .image-card img {
+    font-family: Arial, sans-serif;
+    width: 10%;
+    text-align: left;
+    border-radius: 5px;
+    background-color: blue;
+  }
+  
+  .image-card h2 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  .image-card h3 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  .image-card h4 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  .image-card h5 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+
+  .image-card h6 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+
+  .image-card h7 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  .image-card h8 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  .image-card h9 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
+  
+  .image-card h10 {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    width: 10% - 80px;
+  }
+  
